@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PianoMan0
-- 👀 I’m interested in getting started on Github!
-- 🌱 I’m currently learning about Github
+- 👀 I’m interested participating in a game jam/hackathon.
+- 🌱 I’m currently learning some new JS tricks.
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: Coming from Replit... 
-
+- ⚡ Fun fact: I'm a member of Hackclub
