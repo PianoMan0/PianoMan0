@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PianoMan0
-- 👀 I’m interested participating in a game jam/hackathon.
+- 👀 I’m interested participating in a Scrapyard!
 - 🌱 I’m currently learning some new JS tricks.
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a member of Hackclub
