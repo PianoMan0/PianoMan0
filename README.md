@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PianoMan0
-- 👀 I’m interested participating in the next Hackclub hackathon!
+- 👀 About to launch something cool...
 - 🌱 I’m currently learning some new Python and React tricks.
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a member of Hackclub
