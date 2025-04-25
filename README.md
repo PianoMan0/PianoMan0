@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PianoMan0
-- 👀 About to launch something cool...
-- 🌱 I’m currently learning some new Python and React tricks.
+- 👀 The future of web dev is now
+- 🌱 I’m currently learning how to make a Jekyll theme!
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a member of Hackclub
