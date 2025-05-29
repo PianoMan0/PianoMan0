@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PianoMan0
 - 👀 The future of web dev is now
-- 🌱 I’m currently learning how to make a Jekyll theme!
+- 🌱 I’m currently learning more about hardware with Highway, a Hack Club YSWS!
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a member of Hackclub
