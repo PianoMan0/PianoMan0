@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning more about hardware with [Highway](https://highway.hackclub.com), a Hack Club YSWS!
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a member of Hackclub
+
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
