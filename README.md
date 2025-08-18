@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PianoMan0
 - 👀 The future of web dev is now
-- 🌱 I’m currently learning more about hardware with [Highway](https://highway.hackclub.com), a Hack Club YSWS!
+- 🌱 I’m currently helping run Summer of Making!
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a member of Hackclub
 
