@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I'm a member of Hack Club
 
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=892&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=892&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=10)
 
 <a href="https://heatmap.shymike.dev?id=U0829HRSQ76&standalone=true" title="Click to view detailed data for each day!">
     <picture>
